@@ -127,6 +127,15 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
+    # Thêm nguồn khác
+    - id: "vnexpress-tech"
+      name: "VNExpress Công Nghệ"
+      url: "https://vnexpress.net/rss/so-hoa.rss"
+
+    - id: "tuoitre-home"
+      name: "Tuổi Trẻ Trang Chủ"
+      url: "https://tuoitre.vn/rss/tin-moi-nhat.rss"
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
